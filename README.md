@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/-PHP-777BB4.svg?logo=php&style=plastic"> <img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=plastic"> <img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic">
 
-## Frameworks and Environment
+## Frameworks, Library
 
 <img src="https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=plastic"> <img src="https://img.shields.io/badge/-CakePHP-D33C43.svg?logo=cakephp&style=plastic"> <img src="https://img.shields.io/badge/-Ruby on Rails-CC0000.svg?logo=rails&style=plastic">
 <img src="https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=plastic"> <img src="https://img.shields.io/badge/-Nuxt.js-00C58E.svg?logo=nuxt.js&style=plastic">
